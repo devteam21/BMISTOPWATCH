@@ -9,7 +9,7 @@ BMISTOPWATCH - is aplication for calculate Body Mass Index (BMI) and Stopwatch u
 ![3](https://user-images.githubusercontent.com/19890311/109186824-e50b8e80-77c3-11eb-80e4-6ed333d3ddf7.png)
 
 ## HOW TO USE?
-Just dowload this project and open <b>LOAD.fla</b> using Macromedia Flash 8, please don't forget to give this project ⭐
+Just dowload this project and open <b>LOAD.fla</b> using Macromedia Flash 8, please don't forget to give this project ⭐⭐⭐⭐⭐
 
 ## QUICK DEMO?
 Run the <b>LOAD.exe</b> in your pc (#tested on Windows 10 20H2)
