@@ -13,3 +13,4 @@ Just dowload this project and open <b>LOAD.fla</b> using Macromedia Flash 8, ple
 
 ## QUICK DEMO?
 Run the <b>LOAD.exe</b> in your pc (#tested on Windows 10 20H2)
+https://youtu.be/W7MRyAQaGpM
